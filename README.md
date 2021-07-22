@@ -51,6 +51,6 @@ if you have any questions or problems with WormSizer.  Please put WormSizer in t
 subject of the email.
 
 ## WormSizer Demo Video
-View the screencast [here] (http://people.duke.edu/~bm93/screencast-example_data.swf)
+View the screencast [here] (http://people.duke.edu/~bm93/screencast-example_data.swf) <- does not run
 
 
